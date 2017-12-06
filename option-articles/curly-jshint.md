@@ -47,7 +47,7 @@ unless your coding guidelines ask for the shorter form.
 
 Note that this is an *enforcing* option which means JSHint does not apply it by
 default. If you do not explicitly set this option to `true` JSHint will allow
-the use of bitwise operators anywhere in your code.
+the omission of curly braces anywhere in your code.
 
 #### Recommendation
 
